@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="CaixaStick.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.69219276"
+     inkscape:cx="186.36427"
+     inkscape:cy="493.35968"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:1, 3;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1"
+       width="26"
+       height="26"
+       x="9.0990238"
+       y="112.18726" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:1, 3;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1-5"
+       width="26"
+       height="26"
+       x="86.798355"
+       y="112.47964" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:1, 3;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1-5-3"
+       width="26"
+       height="26"
+       x="85.861176"
+       y="8.7309303" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:1, 3;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1-2"
+       width="26"
+       height="26"
+       x="9.0990238"
+       y="8.7280769"
+       inkscape:transform-center-x="-0.19111969"
+       inkscape:transform-center-y="2.6756757" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.7;stroke-dasharray:0.7, 2.1;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2"
+       width="104"
+       height="75"
+       x="8.9490223"
+       y="35.9305" />
+  </g>
+</svg>

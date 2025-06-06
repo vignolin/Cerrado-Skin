@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="CaixaSabonete.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.4026887"
+     inkscape:cx="221.00413"
+     inkscape:cy="316.89141"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1-4"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+       d="m 76.776709,28.204 -7.760767,28.963607 h 0.82579 C 49.203016,58.063892 32.750959,74.425772 31.711759,95.028345 H 2.2076172 V 167.08699 H 31.706592 c 1.011808,20.53119 17.332436,36.86328 37.861771,37.89226 v 71.90207 h 25.996863 l 1.776636,6.63009 16.462558,-0.0341 1.76682,-6.59598 h 25.99738 V 204.9834 c 20.64445,-0.99356 37.0533,-17.4605 37.95427,-38.12739 h 29.41164 V 94.796835 H 179.49447 C 178.33665,74.172145 161.72893,57.848767 140.98313,57.148487 L 133.22701,28.204 Z" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-dasharray:0.49999899,2.99999392;stroke-opacity:1;stroke-dashoffset:0"
+       id="rect2"
+       width="72"
+       height="38"
+       x="69.568398"
+       y="165.49962" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-dasharray:0.49999899,2.99999392;stroke-opacity:1;stroke-dashoffset:0"
+       id="rect2-7"
+       width="72"
+       height="38"
+       x="69.304001"
+       y="55.578598" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-dasharray:0.49999899,2.99999392;stroke-opacity:1;stroke-dashoffset:0"
+       id="rect2-7-8"
+       width="72"
+       height="38"
+       x="93.360184"
+       y="-179.63115"
+       transform="rotate(90)" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-dasharray:0.49999899,2.99999392;stroke-opacity:1;stroke-dashoffset:0"
+       id="rect2-7-8-6"
+       width="72"
+       height="38"
+       x="93.557304"
+       y="-69.580025"
+       transform="rotate(90)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-dasharray:0.499999, 3;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 69.89039,165.92299 43.548117,192.26526"
+       id="path8" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-dasharray:0.499999, 3;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 69.490256,93.498404 43.21467,67.222819"
+       id="path9" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-dasharray:0.499999, 3;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 142.04822,93.365025 167.92367,67.489577"
+       id="path10" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-dasharray:0.499999, 3;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 141.5147,165.65623 26.34228,26.34228"
+       id="path11" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-dasharray:0.499999, 3;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 95.499083,275.29345 20.140167,0.13338"
+       id="path12" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.6;stroke-dasharray:none"
+       d="M 95.680455,55.603 H 115.53332"
+       id="path1" />
+  </g>
+</svg>
